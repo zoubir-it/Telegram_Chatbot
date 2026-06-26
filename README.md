@@ -1,4 +1,4 @@
-\# Telegram Chatbot 🤖
+\# Telegram Chatbot 
 
 
 
@@ -10,15 +10,15 @@ A Telegram chatbot built with `python-telegram-bot`, powered by Groq API (llama-
 
 
 
-\- 💬 AI-powered responses using Groq API
+\-  AI-powered responses using Groq API
 
-\- 🗂 Per-user conversation history
+\-  Per-user conversation history
 
-\- 🔍 Search through past conversations
+\-  Search through past conversations
 
-\- 🗑 Delete conversations
+\-  Delete conversations
 
-\- 📝 Auto-generated conversation summaries
+\-  Auto-generated conversation summaries
 
 
 
@@ -113,14 +113,6 @@ To keep the bot running 24/7, deploy it to \[Railway](https://railway.app):
 3\. Add your `.env` variables in Railway's dashboard
 
 4\. Deploy!
-
-
-
-\## Notes
-
-\- Never share your `.env` file — it contains sensitive credentials
-
-\- The `.env` file is excluded from the repo via `.gitignore`
 
 
 
